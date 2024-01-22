@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="xf:model" />
+            <item index="7" class="java.lang.String" itemvalue="xf:input" />
+            <item index="8" class="java.lang.String" itemvalue="xf:instance" />
+            <item index="9" class="java.lang.String" itemvalue="xf:output" />
+            <item index="10" class="java.lang.String" itemvalue="xf:label" />
+            <item index="11" class="java.lang.String" itemvalue="PersonGivenName" />
+            <item index="12" class="java.lang.String" itemvalue="xhtml:body" />
+            <item index="13" class="java.lang.String" itemvalue="transmission" />
+            <item index="14" class="java.lang.String" itemvalue="color" />
+            <item index="15" class="java.lang.String" itemvalue="engine" />
+            <item index="16" class="java.lang.String" itemvalue="fuelType" />
+            <item index="17" class="java.lang.String" itemvalue="xhtml:title" />
+            <item index="18" class="java.lang.String" itemvalue="xhtml:head" />
+            <item index="19" class="java.lang.String" itemvalue="year" />
+            <item index="20" class="java.lang.String" itemvalue="model" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N814" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
