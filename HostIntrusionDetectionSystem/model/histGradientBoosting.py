@@ -36,3 +36,5 @@ def predict_with_hgb(model, input_data):
         print("No malware detected\n")
     else:
         print("Malware Detected !!!!\n")
+
+    return prediction[0]

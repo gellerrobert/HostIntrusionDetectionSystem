@@ -70,3 +70,5 @@ def predict_with_knn(model, input_data, X_train):
         print("No malware detected\n")
     else:
         print("Malware Detected !!!!\n")
+
+    return prediction[0]
